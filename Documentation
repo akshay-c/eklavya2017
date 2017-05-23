@@ -1,0 +1,22 @@
+#The project does not only include the program itself, but also the documentation of the program. Writing this document will give people practise with producing “manuals” and “technical documentations”, such as those required for real life programming projects. It is important that both the functionality and the implementation of a program are well illustrated for other people who might need this information – even a thoroughly commented source code will not be sufficient to describe larger, more complex software. The documentation will be used as the primary source of information, so designing it should not be taken lightly.
+#Title 
+"3D SCANNER"
+The goal is to design a 3D scanner using VGA camera and create point cloud for the scanned image using rendering tools.
+
+Technologies : OpenCV OpenGL GTK Xlib embedded C
+
+Mentor : Akshay Chipkar
+
+Complexity : High
+src: http://ekalavya.it.iitb.ac.in/summerinternship2017/list-projects.html
+
+#Mentor
+Akshay Chipkar <akshaychipkar@gmail.com> , <https://github.com/akshay-c/>
+
+
+#Interns
+Team SAAS :    Sagar   <sagarsatapathy.satapathy1@gmail.com>
+	       Animesh <animeshsri.nith@gmail.com>
+	       Anchal  <anchalpanwar551996@gmail.com>
+	       Soumya  <rath.soumyasambit@gmail.com>
+
