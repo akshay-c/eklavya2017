@@ -1,0 +1,20 @@
+trimesh is a library and a set of utilities for reading, writing, and manipulating 3D triangle meshes stored as .ply files.
+Trimesh is a Python (2.7-3*) library for loading and using triangular meshes. The goal of the library is to provide a fully featured Trimesh object which allows for easy manipulation and analysis, in the style of the excellent Polygon object in the Shapely library.
+To install 'trimesh'
+>>>sudo pip install trimesh --upgrade
+[upgrade is written here to update]
+Feature:
+Import binary/ASCII STL, Wavefront OBJ (not the MTL file), ASCII OFF, binary/ASCII PLY, XAML, etc.
+src: https://pypi.python.org/pypi/trimesh
+Download : .ply files from http://graphics.csie.ntu.edu.tw/~robin/courses/cg04/model/index.html
+To install scipy for scientific calculations
+>> sudo apt-get install python-numpy python-scipy
+Now here the trimesh can be used to display ascii and binary files ,
+Replace "uint"
+	"uint8"
+	"uint16"
+	with "float32 or int32"
+the above method is to read ascii files and make it comptabile to use.
+Source for main.py file :https://pypi.python.org/pypi/trimesh
+
+
